@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229362294983",
+    "project_id": "avt-farmers",
+    "storage_bucket": "avt-farmers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229362294983:android:11d3586316436b5e5adee2",
+        "android_client_info": {
+          "package_name": "com.example.farmers_details_generator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_0VblZmCjcIg4kUhcopwGx9ZJCsSzOZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
